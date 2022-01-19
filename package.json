@@ -18,7 +18,7 @@
         "build": "webpack"
     },
     "dependencies": {
-        "react": "^15.5.4"
+        "react": "^16.5.0"
     },
     "devDependencies": {
         "@types/react": "^16.8.23",
